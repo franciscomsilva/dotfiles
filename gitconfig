@@ -1,0 +1,14 @@
+[user]
+	name = Francisco Silva
+	email = 
+	signingkey = 
+[commit]
+	gpgsign = true
+[gpg]
+	program = gpg
+[core]
+	precomposeUnicode = true
+[color]
+	ui = auto
+[http]
+	sslVerify = true
